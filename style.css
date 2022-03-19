@@ -21,7 +21,6 @@ label
     display: flex;
     justify-content: center;
     align-items: center;
-    /* background-color: #777; */
     cursor: pointer;
 }
 label::before
